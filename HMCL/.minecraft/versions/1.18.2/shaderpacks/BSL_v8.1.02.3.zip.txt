@@ -1,0 +1,3 @@
+#Fri Feb 24 23:31:27 CST 2023
+shadowDistance=512.0
+shadowMapResolution=4096

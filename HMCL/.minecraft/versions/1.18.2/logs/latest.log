@@ -1,0 +1,370 @@
+[00:01:07] [Render thread/INFO]: Loaded 242 advancements
+[00:02:10] [Render thread/INFO]: Loaded 242 advancements
+[00:02:16] [Render thread/INFO]: Loaded 244 advancements
+[00:04:12] [Server thread/INFO]: Saving and pausing game...
+[00:04:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:overworld
+[00:04:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_nether
+[00:04:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_end
+[00:04:22] [Render thread/INFO]: [Shaders] Uninit
+[00:04:23] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:mangrove_leaves
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:ochre_froglight
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:verdant_froglight
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:pearlescent_froglight
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk_vein
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk_catalyst
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk_shrieker
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sign
+[00:04:23] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wall_sign
+[00:04:23] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[00:04:23] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[00:04:23] [Render thread/INFO]: [Shaders] Custom texture: texture.composite.depthtex2 = tex/dirt.png
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: tAmin
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: tAlin
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: hA
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: tAfrc
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: tAfrs
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: tAmix
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: timeAngle
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: timeBrightness
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: shadowFade
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: blindFactorSqrt
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: blindFactor
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: yCold1
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: yCold2
+[00:04:23] [Render thread/INFO]: [Shaders] Custom variable: yCold3
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isCold
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isDesert
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isMesa
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isSwamp
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isMushroom
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isSavanna
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isValley
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isCrimson
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isWarped
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: isBasalt
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: voidFade
+[00:04:23] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[00:04:23] [Server thread/INFO]: Saving and pausing game...
+[00:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:overworld
+[00:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_nether
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_end
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_basic
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_textured
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_clouds
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_terrain
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_damagedblock
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_block
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_beaconbeam
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_entities
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_entities_glowing
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_armor_glint
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_spidereyes
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_hand
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_weather
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/deferred
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] colortex4 mipmap enabled
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/deferred1
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_water
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite
+[00:04:23] [Render thread/INFO]: [Shaders] Program disabled: world-1/composite2
+[00:04:23] [Render thread/INFO]: [Shaders] Program disabled: world-1/composite3
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite4
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite5
+[00:04:23] [Render thread/INFO]: [Shaders] Program disabled: world-1/composite6
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite7
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:23] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:23] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[00:04:23] [Render thread/INFO]: [Shaders] colortex1 format: RGB8
+[00:04:23] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16
+[00:04:23] [Render thread/INFO]: [Shaders] colortex3 format: RGB8
+[00:04:23] [Render thread/INFO]: [Shaders] gaux1 format: R8
+[00:04:23] [Render thread/INFO]: [Shaders] gaux2 format: RGB10_A2
+[00:04:23] [Render thread/INFO]: [Shaders] gaux3 format: RGB16
+[00:04:23] [Render thread/INFO]: [Shaders] gaux4 format: RGB16
+[00:04:23] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[00:04:23] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[00:04:23] [Render thread/INFO]: [Shaders] Noise texture enabled
+[00:04:23] [Render thread/INFO]: [Shaders] Noise texture resolution: 512
+[00:04:23] [Render thread/INFO]: [Shaders] Dryness halflife: 50.0
+[00:04:23] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[00:04:23] [Render thread/INFO]: [Shaders] Program loaded: world-1/final
+[00:04:23] [Render thread/INFO]: [Shaders] usedColorBuffers: 6
+[00:04:23] [Render thread/INFO]: [Shaders] usedDepthBuffers: 3
+[00:04:23] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 0
+[00:04:23] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 0
+[00:04:23] [Render thread/INFO]: [Shaders] usedColorAttachs: 6
+[00:04:23] [Render thread/INFO]: [Shaders] usedDrawBuffers: 2
+[00:04:23] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[00:04:23] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[00:04:23] [Render thread/INFO]: [Shaders] Reset model renderers
+[00:04:23] [Render thread/INFO]: [Shaders] Reset world renderers
+[00:04:34] [Render thread/INFO]: [Shaders] Uninit
+[00:04:34] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:mangrove_leaves
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:ochre_froglight
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:verdant_froglight
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:pearlescent_froglight
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk_vein
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk_catalyst
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sculk_shrieker
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:sign
+[00:04:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wall_sign
+[00:04:34] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[00:04:34] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[00:04:34] [Render thread/INFO]: [Shaders] Custom texture: texture.composite.depthtex2 = tex/dirt.png
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: tAmin
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: tAlin
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: hA
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: tAfrc
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: tAfrs
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: tAmix
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: timeAngle
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: timeBrightness
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: shadowFade
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: blindFactorSqrt
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: blindFactor
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: yCold1
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: yCold2
+[00:04:34] [Render thread/INFO]: [Shaders] Custom variable: yCold3
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isCold
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isDesert
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isMesa
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isSwamp
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isMushroom
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isSavanna
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isValley
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isCrimson
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isWarped
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: isBasalt
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: voidFade
+[00:04:34] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/shadow
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_basic
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_textured
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skybasic
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skytextured
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_clouds
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_terrain
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_damagedblock
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_block
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_beaconbeam
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:34] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:34] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:34] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities
+[00:04:35] [Server thread/INFO]: Saving and pausing game...
+[00:04:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:overworld
+[00:04:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_nether
+[00:04:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_end
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities_glowing
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_armor_glint
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_spidereyes
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_hand
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_weather
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/deferred
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] colortex4 mipmap enabled
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/deferred1
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_water
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/composite
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] colortex1 mipmap enabled
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/composite1
+[00:04:35] [Render thread/INFO]: [Shaders] Program disabled: world0/composite2
+[00:04:35] [Render thread/INFO]: [Shaders] Program disabled: world0/composite3
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/composite4
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/composite5
+[00:04:35] [Render thread/INFO]: [Shaders] Program disabled: world0/composite6
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/composite7
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map resolution: 4096
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow map distance: 512.0
+[00:04:35] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[00:04:35] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[00:04:35] [Render thread/INFO]: [Shaders] colortex1 format: RGB8
+[00:04:35] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16
+[00:04:35] [Render thread/INFO]: [Shaders] colortex3 format: RGB8
+[00:04:35] [Render thread/INFO]: [Shaders] gaux1 format: R8
+[00:04:35] [Render thread/INFO]: [Shaders] gaux2 format: RGB10_A2
+[00:04:35] [Render thread/INFO]: [Shaders] gaux3 format: RGB16
+[00:04:35] [Render thread/INFO]: [Shaders] gaux4 format: RGB16
+[00:04:35] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[00:04:35] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[00:04:35] [Render thread/INFO]: [Shaders] Noise texture enabled
+[00:04:35] [Render thread/INFO]: [Shaders] Noise texture resolution: 512
+[00:04:35] [Render thread/INFO]: [Shaders] Dryness halflife: 50.0
+[00:04:35] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[00:04:35] [Render thread/INFO]: [Shaders] Program loaded: world0/final
+[00:04:35] [Render thread/INFO]: [Shaders] usedColorBuffers: 6
+[00:04:35] [Render thread/INFO]: [Shaders] usedDepthBuffers: 3
+[00:04:35] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 1
+[00:04:35] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[00:04:35] [Render thread/INFO]: [Shaders] usedColorAttachs: 6
+[00:04:35] [Render thread/INFO]: [Shaders] usedDrawBuffers: 2
+[00:04:35] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[00:04:35] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[00:04:35] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
+[00:04:35] [Render thread/INFO]: [Shaders] Reset model renderers
+[00:04:35] [Render thread/INFO]: [Shaders] Reset world renderers
+[00:04:41] [Server thread/INFO]: Saving and pausing game...
+[00:04:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:overworld
+[00:04:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_nether
+[00:04:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_end
+[00:04:42] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[00:04:42] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[00:04:42] [Render thread/INFO]: Stopping JEI
+[00:04:42] [Server thread/INFO]: hhx lost connection: 连接中止
+[00:04:42] [Server thread/INFO]: hhx退出了游戏
+[00:04:42] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:04:42] [Server thread/INFO]: Stopping server
+[00:04:42] [Server thread/INFO]: Saving players
+[00:04:42] [Server thread/INFO]: Saving worlds
+[00:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:overworld
+[00:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_nether
+[00:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[明鑫之家]'/minecraft:the_end
+[00:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (明鑫之家): All chunks are saved
+[00:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:45] [Render thread/INFO]: Stopping!

@@ -1,0 +1,11 @@
+{
+  "port": 65535,
+  "maxPlayers": 2,
+  "GameMode": "survival",
+  "motd": "明鑫之家",
+  "UseUPnP": false,
+  "AllowCommands": false,
+  "OnlineMode": false,
+  "EnablePvP": true,
+  "CopyToClipboard": false
+}
