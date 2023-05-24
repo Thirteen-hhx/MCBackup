@@ -138,8 +138,8 @@ key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.500827
+soundCategory_music:0.30033723
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
